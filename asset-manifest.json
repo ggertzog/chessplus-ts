@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/chessplus-ts/static/css/main.288436e3.css",
+    "main.js": "/chessplus-ts/static/js/main.7245ac29.js",
+    "static/media/analize.svg": "/chessplus-ts/static/media/analize.9444b7610f2121b766ef9ed276836ebe.svg",
+    "static/media/friends.svg": "/chessplus-ts/static/media/friends.ca0c350dfee7170f9ed2c6f1994d67d7.svg",
+    "static/media/fide.png": "/chessplus-ts/static/media/fide.a0b085c726992fd5a07c.png",
+    "static/media/tournire.svg": "/chessplus-ts/static/media/tournire.2a0fb9b60b0f261d7c0f2b5a471ce33f.svg",
+    "static/media/logo.svg": "/chessplus-ts/static/media/logo.c8c96955a6dc3b216dede6fd1a865fb7.svg",
+    "static/media/horse.svg": "/chessplus-ts/static/media/horse.04becc7b1bf1abf7fe6a971ccd315b5a.svg",
+    "index.html": "/chessplus-ts/index.html",
+    "main.288436e3.css.map": "/chessplus-ts/static/css/main.288436e3.css.map",
+    "main.7245ac29.js.map": "/chessplus-ts/static/js/main.7245ac29.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.288436e3.css",
+    "static/js/main.7245ac29.js"
+  ]
+}
