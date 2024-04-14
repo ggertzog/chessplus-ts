@@ -1,0 +1,25 @@
+$font-stack: 'Oswald', Arial, sans-serif;
+
+.header {
+    margin: 0;
+    padding: 40px 0;
+    width: 100%;
+    display: flex;
+
+    &__container {
+        margin: 0 auto 0;
+        padding: 0;
+        width: 1160px;
+        display: flex;
+        gap: 35px;
+    }
+
+    &__link {
+        margin: 0;
+        padding: 0;
+        color: #ffffff70;
+        font-family: $font-stack;
+        font-size: 36px;
+        cursor: pointer;
+    }
+}
